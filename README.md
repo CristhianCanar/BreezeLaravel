@@ -1,5 +1,6 @@
 ## Comandos para instalar Breeze
  composer require laravel/breeze --dev
+ 
  php artisan breeze:install
 ![alt text](image.png)
 ![alt text](image-1.png)
